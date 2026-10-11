@@ -5,84 +5,36 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=700&lines=Full-Stack+.NET+Software+Engineer;ASP.NET+Core+%7C+C%23+%7C+Entity+Framework;Real-Time+Geospatial+%26+Cloud-Native+Systems;Building+Scalable+Enterprise+Solutions" alt="Typing Banner" />
 </p>
+<h1 align="center">Hi 👋, I'm Md. Abdullah Al Mamun</h1>
+<h3 align="center">Full Stack ASP.NET Developer</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullah6&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullah6" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdabdullah6" alt="mdabdullah6" /></a> </p>
+
+- 🔭 I’m currently working on **ASP.NET**
+
+- 🌱 I’m currently learning **From my mistakes**
+
+- 👨‍💻 All of my projects are available at [MdAbdullah6](MdAbdullah6)
+
+- 💬 Ask me about **My Projects**
+
+- 📫 How to reach me **mstudent251@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/md-abdullah-al-mamun-a97651246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abdullah-al-mamun-a97651246" height="30" width="40" /></a>
+<a href="https://fb.com/wdabdullah6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wdabdullah6" height="30" width="40" /></a>
+<a href="https://dribbble.com/md-abdullah6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="md-abdullah6" height="30" width="40" /></a>
+<a href="https://www.behance.net/mamunstudent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mamunstudent" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🚀 About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabdullah6&show_icons=true&locale=en&layout=compact" alt="mdabdullah6" /></p>
 
-I am a results-oriented **Full-Stack .NET Software Engineer** based in Dhaka, Bangladesh, with a passion for building robust, scalable backend architectures and modern web interfaces. My focus centers on enterprise software design, real-time spatial data processing, and clean architecture principles.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabdullah6&show_icons=true&locale=en" alt="mdabdullah6" /></p>
 
-* 🔭 **Current Focus:** Advanced ASP.NET Core Web APIs, Microservices, and Geospatial Data Analytics.
-* 💼 **Specialization:** End-to-end web software development using C#, ASP.NET Core, and modern JavaScript/React frameworks.
-* ⚡ **Engineering Principles:** Clean Architecture, SOLID Principles, TDD (Test-Driven Development), and High-Concurrency Performance.
-
----
-
-## 🛠️ Technology Stack & Core Competencies
-
-### Backend Engineering (The Core)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-Realtime-blue?style=for-the-badge)
-
-* **Languages & Frameworks:** C#, ASP.NET Core Web API, MVC, SignalR, Entity Framework Core.
-* **Database & Spatial:** SQL Server, PostgreSQL, PostGIS, NetTopologySuite, Redis Caching.
-* **Architecture & Testing:** Clean Architecture, RESTful APIs, xUnit, Moq, FluentAssertions.
-
-### Frontend Development (The Interface)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-* **UI & Mapping:** React.js, Blazor, Leaflet.js, Mapbox GL JS, HTML5, CSS3, Bootstrap/Tailwind.
-
-### DevOps, Tools & Databases
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-* **DevOps:** Git, GitHub Actions, Docker, Docker Compose, Swagger/OpenAPI, Postman.
-
----
-
-## 💡 Featured Project Highlights
-
-### 📍 Dhaka Real-Time Movement Analytics & Spatial Tracking Platform
-> **A complete enterprise-grade system designed to stream, track, and visualize real-time crowd and vehicle movements across Dhaka's road networks.**
-
-* **The Problem:** Processing high-concurrency spatial movement pings across dense metropolitan areas and dynamically calculating route frequency for pattern detection.
-* **The Solution:** Built a high-performance ASP.NET Core backend utilizing **NetTopologySuite** with Entity Framework Core to handle geographic Linestrings and coordinates. Routes automatically render on an interactive Leaflet.js map with dynamic line weighting/darkening to highlight high-density paths.
-* **Real-Time Pipeline:** Leveraged **SignalR** WebSockets to stream movement data directly to monitoring dashboards without client polling.
-* **Simulated Stress Testing:** Developed an automated simulation engine streaming thousands of mock GPS points along Dhaka transit corridors to rigorously evaluate API throughput, spatial queries, and frontend rendering limits.
-* **Tech Stack:** ASP.NET Core, EF Core, NetTopologySuite, SignalR, PostgreSQL/PostGIS, Leaflet.js, xUnit.
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" width="98%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." — Cory House</i><br/>
-  <b>Designed & Built by Md. Abdullah Al Mamun</b>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdabdullah6&" alt="mdabdullah6" /></p>
