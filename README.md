@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="watermarked_img_4236549994679638703.jpg" alt="Md. Abdullah Al Mamun - Full-Stack .NET Software Engineer Banner" width="100%" />
-</p>
+<img width="1024" height="427" alt="WhatsApp Image 2026-10-11 at 10 34 37 PM" src="https://github.com/user-attachments/assets/5b4b65b4-e7ce-4fb6-a01a-a1b61daf54bc" />
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=700&lines=Full-Stack+.NET+Software+Engineer;ASP.NET+Core+%7C+C%23+%7C+Entity+Framework;Real-Time+Geospatial+%26+Cloud-Native+Systems;Building+Scalable+Enterprise+Solutions" alt="Typing Banner" />
