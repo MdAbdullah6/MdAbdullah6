@@ -8,9 +8,6 @@
 <h1 align="center">Hi 👋, I'm Md. Abdullah Al Mamun</h1>
 <h3 align="center">Full Stack ASP.NET Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdullah6&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdullah6" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdabdullah6" alt="mdabdullah6" /></a> </p>
 
 - 🔭 I’m currently working on **ASP.NET**
 
