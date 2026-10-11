@@ -1,24 +1,22 @@
-# 👨‍💻 Md. Abdullah Al Mamun | Full-Stack .NET Software Engineer
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vcenter=true&width=700&lines=Full-Stack+.NET+Software+Engineer;ASP.NET+Core+%7C+C%23+%7C+Entity+Framework;Real-Time+Geospatial+%26+Cloud-Native+Systems;Building+Scalable+Enterprise+Solutions" alt="Typing Banner" />
+  <img src="watermarked_img_4236549994679638703.jpg" alt="Md. Abdullah Al Mamun - Full-Stack .NET Software Engineer Banner" width="100%" />
 </p>
 
 <p align="center">
-  <b>Transforming Complex Data & Ideas into High-Performance Digital Solutions</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=700&lines=Full-Stack+.NET+Software+Engineer;ASP.NET+Core+%7C+C%23+%7C+Entity+Framework;Real-Time+Geospatial+%26+Cloud-Native+Systems;Building+Scalable+Enterprise+Solutions" alt="Typing Banner" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I am a results-oriented **Full-Stack .NET Software Engineer** with a passion for building robust, scalable backend architectures and modern web interfaces. My focus centers on enterprise software design, real-time spatial data processing, and clean architecture principles.
+I am a results-oriented **Full-Stack .NET Software Engineer** based in Dhaka, Bangladesh, with a passion for building robust, scalable backend architectures and modern web interfaces. My focus centers on enterprise software design, real-time spatial data processing, and clean architecture principles.
 
 * 🔭 **Current Focus:** Advanced ASP.NET Core Web APIs, Microservices, and Geospatial Data Analytics.
 * 💼 **Specialization:** End-to-end web software development using C#, ASP.NET Core, and modern JavaScript/React frameworks.
@@ -73,7 +71,7 @@ I am a results-oriented **Full-Stack .NET Software Engineer** with a passion for
 
 ## 📊 GitHub Analytics
 
-<p center>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
